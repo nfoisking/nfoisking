@@ -4,7 +4,7 @@
 You can use my codes, I'm not responsible for anything!
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/184142162709970944)](https://discord.com/users/184142162709970944)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1293633684624117834)](https://discord.com/users/1293633684624117834)
 
 ![Python](https://img.shields.io/badge/python-%239b44c7.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
